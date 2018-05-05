@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "531293694553",
+    "firebase_url": "https://smartdoor-5a13c.firebaseio.com",
+    "project_id": "smartdoor-5a13c",
+    "storage_bucket": "smartdoor-5a13c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531293694553:android:17464e5120d90ca3",
+        "android_client_info": {
+          "package_name": "com.quangannguyen.smartdoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531293694553-vmkjuvpudcrdhtcj3escqhhun9j05q9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quangannguyen.smartdoor",
+            "certificate_hash": "db7c1e5f09a37caf5f3471645d279814b480f0b3"
+          }
+        },
+        {
+          "client_id": "531293694553-afirhkaplt77d11pi7fkus3s05pu3cc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3o2nqgzwPBzhDHA6sExVZ-uRZ02IrZVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531293694553-afirhkaplt77d11pi7fkus3s05pu3cc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
